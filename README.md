@@ -1,6 +1,6 @@
 # Responsive-How-to
 
-The tutorial for study Bootstrap 3 and Ho to make use it from beginning.
+The tutorial for study Bootstrap 3 and and practice to use it step by step.
 
 To build responsive webpage in the course we cover: 
 + Bootstrap 3 Overview, 
